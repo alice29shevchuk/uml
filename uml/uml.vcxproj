@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Currency.cpp" />
     <ClCompile Include="uml.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Currency.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
