@@ -13,5 +13,6 @@ int main()
 	cout<<*c.getNow_wear();
 	cout << "\n";
 	c.next_wear();
+
 }
 
